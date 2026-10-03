@@ -1,0 +1,40 @@
+header{
+    
+    background: linear-gradient(135deg,#0F172A 0%, #1D4ED8 55%, #38BDF8 100%);
+ 
+    border:1px;
+    border-style: solid;
+    border-color: #38BDF8;
+
+    padding-top:4.5%;
+    padding-bottom:4.5%;
+}
+#s{
+    background: linear-gradient(135deg, #457B9D, #0B2545);
+    border: 1px solid #315A73;
+    border-radius: 5px;;
+    padding-top: 10px;
+    padding-bottom: 10px;
+}
+button{
+    border:1px  black;
+    border-style:ridge;
+    border-radius: 5px;
+}
+button:hover{
+    border:1px  black;
+    border-style:ridge;
+    border-radius: 5px;
+    opacity: 0.5;
+}
+#g{
+    background: linear-gradient(135deg,#0F172A 0%, #1D4ED8 55%, #38BDF8 100%);
+ 
+    border:1px;
+    border-style: solid;
+    border-color: #38BDF8;
+    padding-top:4.4%;
+    padding-bottom:4.4%;
+    border-radius:5px;
+
+}
